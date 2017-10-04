@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\bin\Debug\DataStructuresGroup.exe.config
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\bin\Debug\DataStructuresGroup.exe
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\bin\Debug\DataStructuresGroup.pdb
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.frmMain.resources
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.Properties.Resources.resources
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.exe
+\\Mac\Home\Desktop\2017FallSemester\IS403\HWAssignments\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.pdb
